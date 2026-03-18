@@ -8,7 +8,6 @@ Nach dem Ausführen des Skripts und **Einfügen der Konsolenausgabe** (Merge-Sym
 
 *(Wird per „Konsolenausgabe einfügen“ unten eingefügt. Danach bitte kommentieren.)*
 
----
 
 **2. Deine Kommentierung**
 
@@ -17,7 +16,7 @@ Nach dem Ausführen des Skripts und **Einfügen der Konsolenausgabe** (Merge-Sym
 
 - Warum haben häufigere Zeichen kürzere Codewörter?  
 Häufigere Zeichen bekommen kürzere Codewörter, damit sie weniger Speicherplatz benötigen. Dadurch wird die durchschnittliche Länge der Codes kleiner und die Daten können effizienter gespeichert oder übertragen werden.
----
+
 
 ## Konsolenausgabe
 
