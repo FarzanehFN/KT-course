@@ -1,0 +1,23 @@
+Analyze the file:  /Users/fn/Git/KT-course/lab_suite/labs/01_04_Datenkompression/sampletext.txt
+Total number of words:     13
+Number of different words: 13
+
+-------Table of words:-----------------------------------------
+                           Dies | cnt=  1    p=0.077   H=3.700 bit/word   H_av=0.285 bit/word
+                            ist | cnt=  1    p=0.077   H=3.700 bit/word   H_av=0.285 bit/word
+                            ein | cnt=  1    p=0.077   H=3.700 bit/word   H_av=0.285 bit/word
+                         kurzer | cnt=  1    p=0.077   H=3.700 bit/word   H_av=0.285 bit/word
+                       Testtext | cnt=  1    p=0.077   H=3.700 bit/word   H_av=0.285 bit/word
+                            für | cnt=  1    p=0.077   H=3.700 bit/word   H_av=0.285 bit/word
+                            die | cnt=  1    p=0.077   H=3.700 bit/word   H_av=0.285 bit/word
+                Entropieanalyse | cnt=  1    p=0.077   H=3.700 bit/word   H_av=0.285 bit/word
+                           Hier | cnt=  1    p=0.077   H=3.700 bit/word   H_av=0.285 bit/word
+                         kommen | cnt=  1    p=0.077   H=3.700 bit/word   H_av=0.285 bit/word
+                   verschiedene | cnt=  1    p=0.077   H=3.700 bit/word   H_av=0.285 bit/word
+                     Buchstaben | cnt=  1    p=0.077   H=3.700 bit/word   H_av=0.285 bit/word
+                            vor | cnt=  1    p=0.077   H=3.700 bit/word   H_av=0.285 bit/word
+-----------------------------------------------------------------
+
+Average Entropy H = 3.700 bit/word
+Total Entropy of 13 words H=48.106 bit (7 bytes)
+Size of text file: 95 bytes
